@@ -6,7 +6,7 @@
    <img src="images/Architecture.png" alt="drawing" width="700"/>
 </p>
 <p align="center">
-   <b>Figure 2:</b> Block diagram of the proposed weighted fusion pipeline using the best
+   <b>Figure 1:</b> Block diagram of the proposed weighted fusion pipeline using the best
 performing combination of part-aware graphs.
 </p>
 
