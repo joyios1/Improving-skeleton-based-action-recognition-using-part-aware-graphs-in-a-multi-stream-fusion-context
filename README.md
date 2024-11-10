@@ -11,7 +11,7 @@ performing combination of part-aware graphs.
 </p>
 
 # Preparation
-### Install torchlight
+
 Follow the installation process of [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN)
 
 ### Download datasets.
