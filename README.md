@@ -12,6 +12,8 @@ performing combination of part-aware graphs.
 
 # Preparation
 
+### Installation
+
 Follow the installation process of [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN)
 
 ### Download datasets.
@@ -20,7 +22,7 @@ Follow the installation process of [CTR-GCN](https://github.com/Uason-Chen/CTR-G
 
 - NTU RGB+D 60 Skeleton
 - NTU RGB+D 120 Skeleton
-- 
+
 #### NTU RGB+D 60 and 120
 
 1. Request dataset here: https://rose1.ntu.edu.sg/dataset/actionRecognition
