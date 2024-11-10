@@ -2,7 +2,13 @@
 
 ## Architecture of our proposed method
 
-(./images/Architecture.png)
+<p align="center">
+   <img src="images/Architecture.png" alt="drawing" width="900"/>
+</p>
+<p align="center">
+   <b>Figure 2:</b> Block diagram of the proposed weighted fusion pipeline using the best
+performing combination of part-aware graphs.
+</p>
 
 # Preparation
 ### Install torchlight
